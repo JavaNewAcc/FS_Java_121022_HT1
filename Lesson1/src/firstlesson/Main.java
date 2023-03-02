@@ -17,6 +17,6 @@ public class Main {
 
 		totalSum = coffeCost * cups;
 
-		System.out.println(totalSum + " UAH");
+		System.out.println("Total due: " + totalSum + " UAH");
 	}
 }
